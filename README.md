@@ -1,2 +1,2 @@
-# sales-data-cleaning
-Data cleaning case study - messy sales dataset cleaning with Python (Pandas)
+# 🧹 Sales Data Cleaning (Case Study) 
+## 📌 Project Overview
