@@ -7,3 +7,20 @@ Using **Python (Pandas)**, I applied systematic data cleaning techniques to ensu
 
 ---
 
+## 🔍 Business Problem 
+Sales teams often work with messy, incomplete data, which leads to:
+- Incorrect financial reporting
+- Duplicate transactions
+- Misclassified regions
+- Errors in total calculations
+
+Such issues reduce confidence in reporting and can affect strategic decisions.
+
+---
+
+## 🛠 Tools & Technologies 
+- **Python**: Pandas, NumPy
+- **Jupyter Notebook**
+- **GitHub** for version control and sharing
+
+---
